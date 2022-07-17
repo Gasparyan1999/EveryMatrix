@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/EveryMatrix/static/css/main.933f0dac.css",
+    "main.css": "/EveryMatrix/static/css/main.6e6dd0f1.css",
     "main.js": "/EveryMatrix/static/js/main.eea54e30.js",
     "index.html": "/EveryMatrix/index.html",
-    "main.933f0dac.css.map": "/EveryMatrix/static/css/main.933f0dac.css.map",
+    "main.6e6dd0f1.css.map": "/EveryMatrix/static/css/main.6e6dd0f1.css.map",
     "main.eea54e30.js.map": "/EveryMatrix/static/js/main.eea54e30.js.map"
   },
   "entrypoints": [
-    "static/css/main.933f0dac.css",
+    "static/css/main.6e6dd0f1.css",
     "static/js/main.eea54e30.js"
   ]
 }
